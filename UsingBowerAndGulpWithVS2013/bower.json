@@ -1,0 +1,22 @@
+{
+  "name": "UsingBowerAndGulpWithVS2013",
+  "version": "1.0.0",
+  "description": "Demo project",
+  "keywords": [
+    "Bower",
+    "Gulp",
+    "and",
+    "VS2013"
+  ],
+  "authors": [
+    "AP"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-validation": "~1.14.0",
+    "jquery-validation-unobtrusive": "~3.2.3",
+    "modernizr": "~2.8.3",
+    "bootstrap": "~3.3.5"
+  }
+}
